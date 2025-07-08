@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('Clone') {
       steps {
-        git 'https://github.com/<your-username>/koyal-village-connect.git'
+        git 'https://github.com/Dhanumunde/village-APP.git'
       }
     }
 
